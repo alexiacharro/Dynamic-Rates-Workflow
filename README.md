@@ -9,7 +9,7 @@ All clients received the same rate for each currency pair regardless of their re
 <H3> New Dynamic Rates System  </H3>
 <p> With the Dynamic Rates Engine, BBVA USA channels can be integrated to <strong>live market rates </strong>, and prices can be segmented according to multiple customer variables. </p>
 
-<p> At a high level, this diagram shows the systems integrations needed to allow channels to receive real time rates, which will not only mean a process automatization for the current workflow, but also an enhancement to the service we provide to our customers. </p>
+<p> At a high level, this diagram shows the systems integrations needed to allow Net Cash and WireRoom channels to receive real time rates, which will not only mean a process automatization for the current workflow, but also an enhancement to the service we provide to our customers. </p>
 
 <H6> <em> Click on the table below and drag the image to move the diagram . Zoom in using the wheel mouse and see the detail of the process. </em> </H6>
 
