@@ -11,6 +11,6 @@ All clients received the same rate for each currency pair regardless of their re
 
 <p> At a high level, this diagram shows the systems integrations needed to allow channels to receive real time rates, which will not only mean a process automatization for the current workflow, but also an enhancement to the service we provide to our customers. </p>
 
-<em> Click on the table below and drag the image to move the diagram . Zoom in using the wheel mouse and see the detail of the process. </em> 
+<H6> <em> Click on the table below and drag the image to move the diagram . Zoom in using the wheel mouse and see the detail of the process. </em> </H6>
 
 <iframe width="1000" height="600" src="https://miro.com/app/embed/o9J_krHu_lY=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>
